@@ -10,7 +10,7 @@ const poppins = Poppins({
 });
 
 export const metadata = {
-  title: "MusicHub",
+  title: "Rhythmify",
   description: "Open-Source music streamer.",
   icons: "/logo-musichub.webp",
   manifest: "/manifest.json",
