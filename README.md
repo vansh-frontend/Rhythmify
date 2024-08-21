@@ -1,9 +1,6 @@
-# MusicHub
+# Rhthmify
 
 MusicHub is a web music app built using Next.js 14, App Router, and an unofficial music API. The user interface is styled with Tailwind CSS.
-
-[![Follow me](https://img.shields.io/github/followers/r2hu1?style=social)](https://github.com/r2hu1)
-[![Star this Repo](https://img.shields.io/github/stars/r2hu1/musichub?style=social)](https://github.com/r2hu1/musichub)
 
 <br/>
 
@@ -32,8 +29,8 @@ MusicHub is a web music app built using Next.js 14, App Router, and an unofficia
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/r2hu1/musichub.git
-cd musichub
+git clone https://github.com/vansh-frontend/Rhthmify.git
+cd Rhthmify
 ```
 
 2. Install dependencies:
@@ -49,11 +46,3 @@ npm run dev
 ```
 
 Visit [http://localhost:3000](http://localhost:3000) in your browser to explore MusicHub.
-
-## Contributing
-
-Contributions are welcome! Please follow our [Contribution Guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
